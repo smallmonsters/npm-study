@@ -12,5 +12,7 @@
 
 ### 笔记
 [npm link笔记](https://github.com/smallmonsters/npm-study/blob/master/note/1.md)
+
 [什么是Scoped Packages包](https://github.com/smallmonsters/npm-study/blob/master/note/2.md)
+
 [.npmrc文件是什么]()
